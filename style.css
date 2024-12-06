@@ -1,0 +1,31 @@
+#Savannah {
+color:blueviolet;
+background-color: white;
+}
+body {
+    background-color:aquamarine;
+}
+font {
+    font-size:12pt;
+    color:black;
+}
+h2 {
+    font-size:18pt;
+}
+#Scottish {
+    color:white;
+   background-color:blueviolet;
+}
+#Bengáli {
+    color:red;
+    background-color: black;
+}
+.Ször {
+    color:red;
+}
+.Élettartam {
+    color:red;
+}
+.különlegesség {
+    color:red;
+}
